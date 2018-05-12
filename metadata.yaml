@@ -1,0 +1,30 @@
+_repo: In-the-Hands-of-the-Malays-and-Other-Stories_39616
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Henty, G. A. (George Alfred)
+    alias: Henty, George Alfred
+    birthdate: 1832
+    deathdate: 1902
+    gutenberg_agent_id: '1032'
+    url: http://www.gutenberg.org/2009/agents/1032
+    wikipedia: http://en.wikipedia.org/wiki/G._A._Henty
+description: ''
+gutenberg_issued: '2012-05-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39616'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure stories'
+- !lcc 'PZ'
+- !lcsh 'Fiction'
+tableOfContents: In the hands of the Malays -- On the track -- A frontier girl.
+title: In the Hands of the Malays, and Other Stories
+url: http://www.gutenberg.org/ebooks/39616
